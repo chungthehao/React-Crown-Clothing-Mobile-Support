@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d10aabc3-2b68-4340-84ee-af9202092008" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/header/header.styles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/header/header.styles.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/menu-item/menu-item.styles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/menu-item/menu-item.styles.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <workItem from="1582980540647" duration="190000" />
       <workItem from="1582980923062" duration="323000" />
       <workItem from="1582986407206" duration="58000" />
-      <workItem from="1582991026988" duration="2065000" />
+      <workItem from="1582991026988" duration="2516000" />
     </task>
     <servers />
   </component>
@@ -52,9 +52,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1583039215091" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583072828855">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583073327278">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583072828855" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583073327278" />
   </component>
 </project>
